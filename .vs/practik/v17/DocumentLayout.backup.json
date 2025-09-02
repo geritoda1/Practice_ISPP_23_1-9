@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\solution1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:solution1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|c:\\users\\gerit\\documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0443\u043F\\practik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\info4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:info4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\solution4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:solution4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\info1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:info1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\info2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:info2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\solution2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:solution2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\info3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:info3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\solution3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:solution3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A5F0CD-B35C-482E-86AD-D6DB9EBCE892}|practik.csproj|solutionrelative:form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Info1.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Info1.cs",
+              "RelativeDocumentMoniker": "Info1.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Info1.cs",
+              "RelativeToolTip": "Info1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwDsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:08:10.108Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:46:38.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution1.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Solution1.cs",
+              "RelativeDocumentMoniker": "Solution1.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Solution1.cs",
+              "RelativeToolTip": "Solution1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAkwJQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T06:32:35.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwGUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:22:45.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Info2.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Info2.cs",
+              "RelativeDocumentMoniker": "Info2.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Info2.cs",
+              "RelativeToolTip": "Info2.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:23:26.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Solution2.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Solution2.cs",
+              "RelativeDocumentMoniker": "Solution2.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Solution2.cs",
+              "RelativeToolTip": "Solution2.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAkwJoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:24:28.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Form7.cs",
+              "RelativeDocumentMoniker": "Form7.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Form7.cs",
+              "RelativeToolTip": "Form7.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwFoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:51:46.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Info3.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Info3.cs",
+              "RelativeDocumentMoniker": "Info3.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Info3.cs",
+              "RelativeToolTip": "Info3.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwDoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:52:54.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Solution3.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Solution3.cs",
+              "RelativeDocumentMoniker": "Solution3.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Solution3.cs",
+              "RelativeToolTip": "Solution3.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAkwJUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:53:19.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Form10.cs",
+              "RelativeDocumentMoniker": "Form10.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Form10.cs",
+              "RelativeToolTip": "Form10.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:08:57.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Info4.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Info4.cs",
+              "RelativeDocumentMoniker": "Info4.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Info4.cs",
+              "RelativeToolTip": "Info4.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:09:15.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Solution4.cs",
+              "DocumentMoniker": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Solution4.cs",
+              "RelativeDocumentMoniker": "Solution4.cs",
+              "ToolTip": "C:\\Users\\gerit\\Documents\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\\u0423\u041F\\practik\\Solution4.cs",
+              "RelativeToolTip": "Solution4.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAkwJsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:09:56.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

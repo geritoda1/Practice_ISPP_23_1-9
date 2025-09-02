@@ -1,0 +1,9 @@
+C:\Users\gerit\Documents\техникум\УП\хуй\practik\bin\Debug\practik.exe.config
+C:\Users\gerit\Documents\техникум\УП\хуй\practik\bin\Debug\practik.exe
+C:\Users\gerit\Documents\техникум\УП\хуй\practik\bin\Debug\practik.pdb
+C:\Users\gerit\Documents\техникум\УП\хуй\practik\obj\Debug\practik.csproj.AssemblyReference.cache
+C:\Users\gerit\Documents\техникум\УП\хуй\practik\obj\Debug\practik.Properties.Resources.resources
+C:\Users\gerit\Documents\техникум\УП\хуй\practik\obj\Debug\practik.csproj.GenerateResource.cache
+C:\Users\gerit\Documents\техникум\УП\хуй\practik\obj\Debug\practik.csproj.CoreCompileInputs.cache
+C:\Users\gerit\Documents\техникум\УП\хуй\practik\obj\Debug\practik.exe
+C:\Users\gerit\Documents\техникум\УП\хуй\practik\obj\Debug\practik.pdb
